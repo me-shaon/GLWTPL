@@ -1,6 +1,4 @@
-# GLWTPL
-
-**"Good Luck With That" Public License**
+# GLWTPL (Good Luck With That Public License)
 
 If you have the feeling about your code:
 
