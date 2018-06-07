@@ -1,10 +1,10 @@
 # GLWTPL (Good Luck With That Public License)
 
-If you have the feeling about your code:
+If you have *that* feeling about your code...
 
 ```
-When I wrote this, only God and I understood what I was doing
-Now, only God knows
+When I wrote this, only God and I understood what I was doing.
+Now, only God knows.
 ```
 
-then think no further and include [this LICENSE](./LICENSE) to your project.
+...think no further and include [this LICENSE](./LICENSE) to your project!
