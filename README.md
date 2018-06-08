@@ -15,4 +15,4 @@ Now, only God knows.
 - "Whatever done is done", and you don't have time/intention to fix, modify or improve your code any further
 
 ### License
-Thir project is Licensed under GLWTPL
+This project is Licensed under GLWTPL
