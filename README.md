@@ -8,7 +8,8 @@ Now, only God knows.
 ```
 
 ...think no further and include [this LICENSE](./LICENSE) to your project!
-It has a [NSFW version](./NSFW_LICENSE) too. Cheers! 
+
+It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 
 ### Possible Use Cases
 - You wrote some code but not quite proud of it, yet want to release it.
