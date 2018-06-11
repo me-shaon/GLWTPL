@@ -16,5 +16,8 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 - You want to make free your code in the wild and want no responsibility for it.
 - "Whatever done is done", and you don't have time/intention to fix, modify or improve your code any further
 
+### Translation
+* [Simplified Chinese 简体中文](LICENSE_zh-CN)
+
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
