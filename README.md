@@ -17,7 +17,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 - "Whatever done is done", and you don't have time/intention to fix, modify or improve your code any further
 
 ### Translation
-* [Simplified Chinese 简体中文](LICENSE_zh-CN)
+* [Simplified Chinese 简体中文](translations/LICENSE_zh-CN)
 
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
