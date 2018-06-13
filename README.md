@@ -18,6 +18,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 
 ### Translation
 * [Simplified Chinese 简体中文](translations/LICENSE_zh-CN)
+* [French - Français](translations/LICENSE_fr-FR)
 
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
