@@ -18,6 +18,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 
 ### Translation
 * [French - Français](translations/LICENSE_fr-FR)
+* [German - Deutsch](translations/LICENSE_de-DE)
 * [Portuguese - Português (BR)](translations/LICENSE_pt-BR)
 * [Russian - Русский](translations/LICENSE_ru-RU)
 * [Simplified Chinese 简体中文](translations/LICENSE_zh-CN)
