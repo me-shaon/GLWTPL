@@ -21,6 +21,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 * [French - Français](translations/LICENSE_fr-FR)
 * [Russian - Русский](translations/LICENSE_ru-RU)
 * [Portuguese - Português (BR)](translations/LICENSE_pt-BR)
+* [Croatian - Hrvatski](translations/LICENSE_hr-HR)
 
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
