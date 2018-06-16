@@ -17,10 +17,13 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 - "Whatever done is done", and you don't have time/intention to fix, modify or improve your code any further
 
 ### Translation
-* [Simplified Chinese 简体中文](translations/LICENSE_zh-CN)
 * [French - Français](translations/LICENSE_fr-FR)
-* [Russian - Русский](translations/LICENSE_ru-RU)
+* [German - Deutsch](translations/LICENSE_de-DE)
 * [Portuguese - Português (BR)](translations/LICENSE_pt-BR)
+* [Russian - Русский](translations/LICENSE_ru-RU)
+* [Simplified Chinese 简体中文](translations/LICENSE_zh-CN)
+* [Contonese Chinese 廣東話](translations/LICENSE_zh-HK)
+* [Traditional Chinese 正體中文](translations/LICENSE_zh-TW)
 * [Croatian - Hrvatski](translations/LICENSE_hr-HR)
 
 ### License
