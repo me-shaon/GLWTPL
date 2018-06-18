@@ -24,6 +24,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 * [Simplified Chinese 简体中文](translations/LICENSE_zh-CN)
 * [Contonese Chinese 廣東話](translations/LICENSE_zh-HK)
 * [Traditional Chinese 正體中文](translations/LICENSE_zh-TW)
+* [Spanish - Español](translations/LICENSE_es-ES)
 
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
