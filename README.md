@@ -15,6 +15,9 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 - You wrote some code but not quite proud of it, yet want to release it.
 - You want to make free your code in the wild and want no responsibility for it.
 - "Whatever done is done", and you don't have time/intention to fix, modify or improve your code any further
+- Built an awesome project in a Hackathon/Code-competition? Want to license it? This is the license for you.
+- Your college/university course/lab work and this license are a match made in heaven.
+
 
 ### Translations
 * [Cantonese - 廣東話](translations/LICENSE_zh-HK)
