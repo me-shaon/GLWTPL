@@ -20,18 +20,17 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 
 
 ### Translations
-* [Cantonese - 廣東話](translations/LICENSE_zh-HK)
 * [Croatian - Hrvatski](translations/LICENSE_hr-HR)
 * [French - Français](translations/LICENSE_fr-FR)
 * [German - Deutsch](translations/LICENSE_de-DE)
 * [Italian - Italiano](translations/LICENSE_it-IT)
 * [Portuguese - Português (BR)](translations/LICENSE_pt-BR)
 * [Russian - Русский](translations/LICENSE_ru-RU)
-* [Simplified Chinese - 简体中文](translations/LICENSE_zh-CN)
 * [Spanish - Español](translations/LICENSE_es-ES)
-* [Traditional Chinese - 正體中文](translations/LICENSE_zh-TW)
+* [Chinese - Cantonese - 中文（廣東話）](translations/LICENSE_zh-HK)
+* [Chinese - Simplified - 中文（简体）](translations/LICENSE_zh-CN)
+* [Chinese - Traditional - 中文（正體）](translations/LICENSE_zh-TW)
+* [Chinese - Wu - 中文（吴语）](translations/LICENSE_zh-wuu)
 * [Arabic - العربيه](translations/LICENSE_ar-AR)
-* [Wu Chinese - 吴语](translations/LICENSE_zh-wuu)
-
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
