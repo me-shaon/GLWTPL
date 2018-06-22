@@ -32,6 +32,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 * [Traditional Chinese - 正體中文](translations/LICENSE_zh-TW)
 * [Arabic - العربيه](translations/LICENSE_ar-AR)
 * [Turkish - Türkçe](translations/LICENSE_tr-TR)
+* [Danish - Dansk](translations/LICENSE_da-DK)
 
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
