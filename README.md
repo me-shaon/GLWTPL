@@ -18,6 +18,8 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 - Built an awesome project in a Hackathon/Code-competition? Want to license it? This is the license for you.
 - Your college/university course/lab work and this license are a match made in heaven.
 
+### Contribution Guideline
+See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contribution-guideline) before bother me with some fancy PR.
 
 ### Translations
 * [Arabic - العربيه](translations/LICENSE_ar-AR)
