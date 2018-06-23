@@ -9,6 +9,10 @@ Now, only God knows.
 
 ...think no further and include [this LICENSE](./LICENSE) to your project!
 
+And, wish a very **Good Luck** to your future self, or a fellow human being or an alien or an AI bot (who can code and will destroy human race) - literally anyone who will dare to dive into your project.
+
+![Good luck GIF](./good-luck.gif)
+
 It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 
 ### Possible Use Cases
