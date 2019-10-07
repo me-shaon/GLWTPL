@@ -33,6 +33,7 @@ See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contrib
 * [Danish - Dansk](translations/LICENSE_da-DK)
 * [Dutch - Nederlands](translations/LICENSE_nl-NL)
 * [French - Français](translations/LICENSE_fr-FR)
+* [Galician - Galego](translations/NSFW_LICENSE_gl-GL)
 * [Georgian - ქართული](translations/LICENSE_ka-GE)
 * [German - Deutsch](translations/LICENSE_de-DE)
 * [Italian - Italiano](translations/LICENSE_it-IT)
