@@ -16,6 +16,7 @@ And, wish a very **Good Luck** to your future self, or a fellow human being or a
 It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 
 ### Possible Use Cases
+
 - You wrote some code but not quite proud of it, yet want to release it.
 - You want to make free your code in the wild and want no responsibility for it.
 - "Whatever done is done", and you don't have time/intention to fix, modify or improve your code any further
@@ -23,9 +24,11 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 - Your college/university course/lab work and this license are a match made in heaven.
 
 ### Contribution Guideline
+
 See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contribution-guideline) before bother me with some fancy PR.
 
 ### Translations
+
 * [Arabic - العربيه](translations/LICENSE_ar-AR)
 * [Cantonese - 廣東話](translations/LICENSE_zh-HK)
 * [Catalan - Català](translations/LICENSE_cat-CAT)
@@ -48,4 +51,5 @@ See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contrib
 * [Vietnamese - Tiếng Việt](translations/LICENSE_vn-VN)
 
 ### License
+
 This project is licensed under [GLWTPL](./LICENSE)
