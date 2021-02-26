@@ -26,6 +26,7 @@ It has a [NSFW version](./NSFW_LICENSE) too. Cheers!
 See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contribution-guideline) before bother me with some fancy PR.
 
 ### Translations
+* [Albanian - Shqip](translations/LICENSE_al-AL)
 * [Arabic - العربيه](translations/LICENSE_ar-AR)
 * [Bangla - বাংলা](translations/LICENSE_bn-BN)
 * [Cantonese - 廣東話](translations/LICENSE_zh-HK)
