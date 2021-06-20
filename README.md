@@ -1,5 +1,7 @@
 # GLWTPL (Good Luck With That Public License)
 
+[![GLWTPL](https://img.shields.io/badge/GLWT-Public_License-red.svg)](https://github.com/me-shaon/GLWTPL)
+
 If you have *that* feeling about your code...
 
 ```
