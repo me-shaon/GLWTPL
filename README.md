@@ -29,7 +29,7 @@ See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contrib
 
 ### Translations
 * [Albanian - Shqip](translations/LICENSE_al-AL)
-* [Arabic - العربيه](translations/LICENSE_ar-AR)
+* [Arabic - العربية](translations/LICENSE_ar-AR)
 * [Bangla - বাংলা](translations/LICENSE_bn-BN)
 * [Cantonese - 廣東話](translations/LICENSE_zh-HK)
 * [Catalan - Català](translations/LICENSE_cat-CAT)
