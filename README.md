@@ -49,6 +49,7 @@ See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contrib
 * [Latvian - Latviski](translations/LICENSE_lv-LV)
 * [Portuguese - Português (BR)](translations/LICENSE_pt-BR)
 * [Russian - Русский](translations/LICENSE_ru-RU)
+* [Romanian - Română](translations/LICENSE_ro-RO)
 * [Simplified Chinese - 简体中文](translations/LICENSE_zh-CN)
 * [Spanish - Español](translations/LICENSE_es-ES)
 * [Swedish - Svenska](translations/LICENSE_sv-SE)
