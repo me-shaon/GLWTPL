@@ -34,6 +34,7 @@ See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contrib
 * [Cantonese - 廣東話](translations/LICENSE_zh-HK)
 * [Catalan - Català](translations/LICENSE_cat-CAT)
 * [Croatian - Hrvatski](translations/LICENSE_hr-HR)
+* [Czech - Čeština](translations/LICENSE_cs-CZ)
 * [Danish - Dansk](translations/LICENSE_da-DK)
 * [Dutch - Nederlands](translations/LICENSE_nl-NL)
 * [French - Français](translations/LICENSE_fr-FR)
