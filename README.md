@@ -61,6 +61,7 @@ See the [Contribution Guideline](https://github.com/me-shaon/GLWTPL/wiki#contrib
 * [Traditional Chinese - 正體中文](translations/LICENSE_zh-TW)
 * [Turkish - Türkçe](translations/LICENSE_tr-TR)
 * [Vietnamese - Tiếng Việt](translations/LICENSE_vn-VN)
+* [Uzbekistan - O’zbekiston](translations/LICENSE_uz-UZ)
 
 ### License
 This project is licensed under [GLWTPL](./LICENSE)
